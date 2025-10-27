@@ -167,5 +167,4 @@ void MyVector<T>::reallocate(size_t new_capacity) {
 
     m_data = new_data;
     m_capacity = new_capacity;
-
 }
